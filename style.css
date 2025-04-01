@@ -3,19 +3,23 @@ h1{
 }
 h2{
     color: blue;
+    font-size: 18px;
 }
 h3{
+    font-size: 50px;
     color: green;
 }
 h4{
+    font-size: 70px;
     color: #43b334;
 }
 h5{
     color:blueviolet;
 }
 h6{
-    color:#b31b6f
+    color:#b31b6f;
 }
 p{
-    color:#031b1d
+    font-size: 22px;
+    color:#031b1d;
 }   
